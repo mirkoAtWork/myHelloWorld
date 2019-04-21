@@ -1,8 +1,13 @@
 # myHelloWorld
 I try to Learn GitHub
 
-TODO LIST
--open an issue
+##Kanban Style Todo List
 
-DONE
--clone, commit, pull,push,rebase merge
+| TODO                                    | IN PROGRESS                                | DONE                                             |
+|:-:                                      |:-:                                         |:-:                                               |
+|                                         |       open an issue                        |                                                  |
+|clone, commit, pull,push,rebase merge    |                                            |                                                  |
+|                                         |                                            |                                                  |
+|                     |                         |                  |
+
+
