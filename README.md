@@ -1,7 +1,7 @@
 # myHelloWorld
 I try to Learn GitHub
 
-##Kanban Style Todo List
+## Kanban Style Todo List
 
 | TODO                                    | IN PROGRESS                                | DONE                                             |
 |:-:                                      |:-:                                         |:-:                                               |
